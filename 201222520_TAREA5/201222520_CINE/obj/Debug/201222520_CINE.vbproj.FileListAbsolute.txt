@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\201222520_TAREA5\201222520_CINE\bin\Debug\201222520_CINE.exe.config
+C:\Users\Lenovo\source\repos\201222520_TAREA5\201222520_CINE\bin\Debug\201222520_CINE.exe
+C:\Users\Lenovo\source\repos\201222520_TAREA5\201222520_CINE\bin\Debug\201222520_CINE.pdb
+C:\Users\Lenovo\source\repos\201222520_TAREA5\201222520_CINE\bin\Debug\201222520_CINE.xml
+C:\Users\Lenovo\source\repos\201222520_TAREA5\201222520_CINE\obj\Debug\201222520_CINE.vbproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\201222520_TAREA5\201222520_CINE\obj\Debug\_201222520_CINE.Form1.resources
+C:\Users\Lenovo\source\repos\201222520_TAREA5\201222520_CINE\obj\Debug\_201222520_CINE.Resources.resources
+C:\Users\Lenovo\source\repos\201222520_TAREA5\201222520_CINE\obj\Debug\201222520_CINE.vbproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\201222520_TAREA5\201222520_CINE\obj\Debug\201222520_CINE.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\201222520_TAREA5\201222520_CINE\obj\Debug\201222520_CINE.exe
+C:\Users\Lenovo\source\repos\201222520_TAREA5\201222520_CINE\obj\Debug\201222520_CINE.xml
+C:\Users\Lenovo\source\repos\201222520_TAREA5\201222520_CINE\obj\Debug\201222520_CINE.pdb
