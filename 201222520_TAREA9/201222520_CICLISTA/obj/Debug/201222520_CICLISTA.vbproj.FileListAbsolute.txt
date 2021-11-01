@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\201222520_TAREA9\201222520_CICLISTA\bin\Debug\201222520_CICLISTA.exe.config
+C:\Users\Lenovo\source\repos\201222520_TAREA9\201222520_CICLISTA\bin\Debug\201222520_CICLISTA.exe
+C:\Users\Lenovo\source\repos\201222520_TAREA9\201222520_CICLISTA\bin\Debug\201222520_CICLISTA.pdb
+C:\Users\Lenovo\source\repos\201222520_TAREA9\201222520_CICLISTA\bin\Debug\201222520_CICLISTA.xml
+C:\Users\Lenovo\source\repos\201222520_TAREA9\201222520_CICLISTA\obj\Debug\201222520_CICLISTA.vbproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\201222520_TAREA9\201222520_CICLISTA\obj\Debug\_201222520_CICLISTA.Form1.resources
+C:\Users\Lenovo\source\repos\201222520_TAREA9\201222520_CICLISTA\obj\Debug\_201222520_CICLISTA.Resources.resources
+C:\Users\Lenovo\source\repos\201222520_TAREA9\201222520_CICLISTA\obj\Debug\201222520_CICLISTA.vbproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\201222520_TAREA9\201222520_CICLISTA\obj\Debug\201222520_CICLISTA.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\201222520_TAREA9\201222520_CICLISTA\obj\Debug\201222520_CICLISTA.exe
+C:\Users\Lenovo\source\repos\201222520_TAREA9\201222520_CICLISTA\obj\Debug\201222520_CICLISTA.xml
+C:\Users\Lenovo\source\repos\201222520_TAREA9\201222520_CICLISTA\obj\Debug\201222520_CICLISTA.pdb
