@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\201222520_TAREA10\201222520_LOGIC\bin\Debug\201222520_LOGIC.exe.config
+C:\Users\Lenovo\source\repos\201222520_TAREA10\201222520_LOGIC\bin\Debug\201222520_LOGIC.exe
+C:\Users\Lenovo\source\repos\201222520_TAREA10\201222520_LOGIC\bin\Debug\201222520_LOGIC.pdb
+C:\Users\Lenovo\source\repos\201222520_TAREA10\201222520_LOGIC\bin\Debug\201222520_LOGIC.xml
+C:\Users\Lenovo\source\repos\201222520_TAREA10\201222520_LOGIC\obj\Debug\201222520_LOGIC.vbproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\201222520_TAREA10\201222520_LOGIC\obj\Debug\_201222520_LOGIC.Form1.resources
+C:\Users\Lenovo\source\repos\201222520_TAREA10\201222520_LOGIC\obj\Debug\_201222520_LOGIC.Resources.resources
+C:\Users\Lenovo\source\repos\201222520_TAREA10\201222520_LOGIC\obj\Debug\201222520_LOGIC.vbproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\201222520_TAREA10\201222520_LOGIC\obj\Debug\201222520_LOGIC.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\201222520_TAREA10\201222520_LOGIC\obj\Debug\201222520_LOGIC.exe
+C:\Users\Lenovo\source\repos\201222520_TAREA10\201222520_LOGIC\obj\Debug\201222520_LOGIC.xml
+C:\Users\Lenovo\source\repos\201222520_TAREA10\201222520_LOGIC\obj\Debug\201222520_LOGIC.pdb
